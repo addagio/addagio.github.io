@@ -1,1 +1,1 @@
-echo "listo" >> /Users/garellano/Desktop/abc.txt
+echo "listo gus" >> /Users/garellano/Desktop/abc.txt
