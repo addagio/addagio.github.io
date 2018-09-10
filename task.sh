@@ -1,1 +1,1 @@
-echo "ya quedo !!!!!!!" >> /Users/garellano/Desktop/abc.txt
+echo "2 ya quedo !!!!!!!" >> /Users/garellano/Desktop/abc.txt
