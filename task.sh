@@ -1,1 +1,1 @@
-echo "7 ya quedo !!!!!!!" >> /Users/automation/abc.txt
+echo "prueba de tiempo" >> /Users/automation/abc.txt
