@@ -3,7 +3,7 @@
 FILE=wait.txt
 
 if [ -f $FILE ]; then
-    echo "File $FILE does exist. I will wait for it to disaper..." >> log.txt
+    /usr/bin/sudo echo "File $FILE does exist. I will wait for it to disaper..." >> log.txt
 else
     /usr/bin/sudo echo "File not found! Good !!!!" >> log.txt
     /usr/bin/sudo touch wait.txt
